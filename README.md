@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola! Mi nombre es Mariano Avola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarianoAvola" alt="MarianoAvola" /> </p>
 <br>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;&nbsp;&nbsp;<b><i>Software Developer</i></b>
+<h3><b><i>Software Developer</i></b></h3>
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
