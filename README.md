@@ -7,7 +7,7 @@
 
 <br><br>
 
-:computer: Soy Desarrollador de Software desde hace más de 4 años.
+:computer: Soy Desarrollador de Software desde hace más de 5 años.
 
 Estudiante de Ingeniería en Sistemas. Estoy ampliando mis conocimientos en Ciberseguridad, y trabajo como Desarrollador Full Stack Ssr en una empresa de LATAM.<br>
 Me especializo en Java y SQL. Me apasiona aprender tecnologías nuevas, así como lenguajes de programación.<br><br>
