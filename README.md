@@ -11,7 +11,7 @@
 
 Estudiante de Ingeniería en Sistemas. Estoy ampliando mis conocimientos en Ciberseguridad, y trabajo como Desarrollador Full Stack en una empresa de LATAM.<br>
 Me especializo en Java y SQL. Me apasiona aprender tecnologías nuevas, así como lenguajes de programación.<br><br>
-Además, tengo una startup de tecnología llamada ***<a href= "https://meelon.me">Meelon</a>*** donde nos dedicamos al desarollo de software web.<br>
+Además, tengo una startup de tecnología llamada ***<a href= "https://meelon.me">Meelon</a>*** donde nos dedicamos al desarollo de software a medida.<br>
 
 <br>
 
