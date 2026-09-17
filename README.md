@@ -14,10 +14,11 @@ Building software, exploring hardware, and learning how both worlds connect.
 
 ---
 
-### 🚀 Open Source Projects
+### 🚀 Projects & Contributions
 
-Some of the projects I'm building.
+Some of the projects I'm building and contributing to.
 
-| | Project | Description | Tech |
+| | Project | Description | Role / Organization |
 |---|---|---|---|
-| 📄 | **ReportFoundry** | Java reporting library for building and generating customizable reports. | Java · PDFBox · Thymeleaf |
+| 📄 | **ReportFoundry** | Open-source Java reporting library for building highly customizable reports. | Creator |
+| 🛰️ | **CubeDesign** | CubeSat design and engineering project. | Contributor · GIAR |
