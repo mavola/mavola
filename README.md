@@ -18,6 +18,6 @@ Building software, exploring hardware, and learning how both worlds connect.
 
 Some of the projects I'm building.
 
-| | Project | Description |
-|---|---|---|
-| 📄 | **ReportFoundry** | Java reporting library for building and generating customizable reports. |
+| | Project | Description | Tech |
+|---|---|---|---|
+| 📄 | **ReportFoundry** | Java reporting library for building and generating customizable reports. | Java · PDFBox · Thymeleaf |
